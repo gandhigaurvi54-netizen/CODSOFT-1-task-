@@ -1,2 +1,2 @@
-# CODSOFT-1-task-
+# CODSOFT
 CodSoft AI Internship Tasks
